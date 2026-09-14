@@ -1,0 +1,1110 @@
+[
+  {
+    "application_id": "APP6000",
+    "borrower_name": "S. Kowalski",
+    "loan_type": "conventional",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-02",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-08-25",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6001",
+    "borrower_name": "K. Novak",
+    "loan_type": "FHA",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-04",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-03",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6002",
+    "borrower_name": "D. Nakamura",
+    "loan_type": "FHA",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "D. Nakamura"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "D. Nakamura"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "D. Nakamura"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-09-03",
+        "is_legible": true,
+        "borrower_name_on_doc": "D. Nakamura"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-07",
+        "is_legible": true,
+        "borrower_name_on_doc": "D. Nakamura"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6003",
+    "borrower_name": "M. Chen",
+    "loan_type": "conventional",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-08-31",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-09-05",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6004",
+    "borrower_name": "T. Osei",
+    "loan_type": "FHA",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-02",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-04",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-09-04",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6005",
+    "borrower_name": "K. Novak",
+    "loan_type": "FHA",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-10",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-05-28",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-10",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-08-29",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-09-06",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-03",
+        "is_legible": true,
+        "borrower_name_on_doc": "K. Novak"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6006",
+    "borrower_name": "R. Patel",
+    "loan_type": "conventional",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-06-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-08-31",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-09-01",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6007",
+    "borrower_name": "R. Patel",
+    "loan_type": "conventional",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-06",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-27",
+        "is_legible": false,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6008",
+    "borrower_name": "J. Alvarez",
+    "loan_type": "FHA",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-07",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-05",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-07",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6009",
+    "borrower_name": "T. Osei",
+    "loan_type": "conventional",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-10",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-28",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6010",
+    "borrower_name": "A. Fischer",
+    "loan_type": "conventional",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-10",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-31",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-13",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-09-03",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6011",
+    "borrower_name": "L. Rossi",
+    "loan_type": "conventional",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-06-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-04",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-08-31",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-08-31",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6012",
+    "borrower_name": "A. Fischer",
+    "loan_type": "conventional",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-10",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-13",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-09",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-03",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-08-31",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6013",
+    "borrower_name": "M. Chen",
+    "loan_type": "FHA",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-06",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-09-05",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-13",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6014",
+    "borrower_name": "L. Rossi",
+    "loan_type": "conventional",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-01",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-07",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-13",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6015",
+    "borrower_name": "L. Rossi",
+    "loan_type": "conventional",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-05",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-29",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-25",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6016",
+    "borrower_name": "A. Fischer",
+    "loan_type": "FHA",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-06",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-08-29",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-09-01",
+        "is_legible": false,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-09-13",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "A. Fischer"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6017",
+    "borrower_name": "L. Rossi",
+    "loan_type": "FHA",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-08-31",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-02",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-04",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-05",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-09-03",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-01",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6018",
+    "borrower_name": "J. Alvarez",
+    "loan_type": "FHA",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-05",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-27",
+        "is_legible": false,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-05",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-09-01",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-07",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6019",
+    "borrower_name": "R. Patel",
+    "loan_type": "FHA",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-08-25",
+        "is_legible": true,
+        "borrower_name_on_doc": "J. Alvarez"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-10",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-09-05",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6020",
+    "borrower_name": "T. Osei",
+    "loan_type": "conventional",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-29",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-08-31",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6021",
+    "borrower_name": "T. Osei",
+    "loan_type": "conventional",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-09",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-25",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-08-28",
+        "is_legible": true,
+        "borrower_name_on_doc": "T. Osei"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6022",
+    "borrower_name": "L. Rossi",
+    "loan_type": "FHA",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-25",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-25",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-09-10",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "L. Rossi"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6023",
+    "borrower_name": "R. Patel",
+    "loan_type": "conventional",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-08-29",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-09-04",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-08-26",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-09-12",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-08-25",
+        "is_legible": true,
+        "borrower_name_on_doc": "R. Patel"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6024",
+    "borrower_name": "M. Chen",
+    "loan_type": "FHA",
+    "employment_type": "W2",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-09",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-06-04",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-11",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "pay_stub",
+        "date_received": "2026-09-08",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "w2_form",
+        "date_received": "2026-09-07",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      },
+      {
+        "doc_type": "fha_case_number_form",
+        "date_received": "2026-09-07",
+        "is_legible": true,
+        "borrower_name_on_doc": "M. Chen"
+      }
+    ]
+  },
+  {
+    "application_id": "APP6025",
+    "borrower_name": "S. Kowalski",
+    "loan_type": "conventional",
+    "employment_type": "self_employed",
+    "submitted_documents": [
+      {
+        "doc_type": "photo_id",
+        "date_received": "2026-09-02",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "bank_statement",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "credit_authorization",
+        "date_received": "2026-09-06",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "tax_return_1",
+        "date_received": "2026-08-27",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "tax_return_2",
+        "date_received": "2026-09-04",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      },
+      {
+        "doc_type": "profit_loss_statement",
+        "date_received": "2026-08-30",
+        "is_legible": true,
+        "borrower_name_on_doc": "S. Kowalski"
+      }
+    ]
+  }
+]
